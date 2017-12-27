@@ -69,6 +69,7 @@ input:focus {
 .fa-plus {
 	float: right;
 	padding-top: 4px;
+	cursor: pointer;
 }
 
 #container {
